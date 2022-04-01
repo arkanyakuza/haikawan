@@ -3,4 +3,7 @@
 
 
 # sosial media saya 
-* [<img alt="arkanyakuza Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Instagram.svg" /><b>Instagram</b>](https://www.instagram.com/arkan_oi)<br>*
+
+ https://www.instagram.com/arkan_oi
+ 
+ <marquee>jangan lupa follow yah</marquee>
